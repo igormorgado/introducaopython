@@ -71,7 +71,7 @@ O curso é dividido em 3 aulas de 2 horas que apresenta o básico da linguagem P
 4. Entre no diretório do curso
 
     ```
-    cd introduçãopython
+    cd introducaopython
     ```
 
 5. Execute o teste de ambiente
