@@ -1,8 +1,8 @@
 # Introdução a Computação Científica com Python
 
-Bem vindo. Neste curso você irá aprender o mínimo necessário para utilizar uma linguagem de computação para resolver problemas comuns dentro da sua vida acadêmica como computações simples, criação de gráficos e inserção dos gráficos em um artigo.
+Bem vindo. Neste curso você irá aprender o mínimo necessário para utilizar uma linguagem de computação para resolver problemas comuns dentro da sua vida acadêmica como: computações simples, criação de gráficos e inserção dos gráficos em um artigo.
 
-Leia este texto com atenção até o final, ele terá instruções em como proceder e preparar o seu ambiente para o início de cada aula (ou para refazer as aulas em casa).
+Leia este texto com atenção até o final. Ele terá instruções em como proceder e preparar o seu ambiente para o início de cada aula (ou para refazer as aulas em casa).
 
 Vamos nos divertir.
 
