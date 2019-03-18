@@ -2,6 +2,11 @@
 
 Bem vindo. Neste curso você irá aprender o mínimo necessário para utilizar uma linguagem de computação para resolver problemas comuns dentro da sua vida acadêmica como computações simples, criação de gráficos e inserção dos gráficos em um artigo.
 
+Leia este texto com atenção até o final, ele terá instruções em como proceder e preparar o seu ambiente para o início de cada aula (ou para refazer as aulas em casa).
+
+Vamos nos divertir.
+
+
 ## Por que Python?
 
 "Por que não?" seria uma ótima contra pergunta, mas também poderiamos dizer o mesmo para C, Ruby, C#, Java, Julia, Fortran ou C++. Todas estas são [linguagens conhecidas][Python_vs_World], que gozam de uma ótima reputação (independente das opiniões do autor) e competentes para serem utilizadas neste cenário, nenhuma destas possui a versatilidade, simplicidade e foco em computação numérica como o Python.
@@ -47,12 +52,28 @@ O curso é dividido em 3 aulas de 2 horas que apresenta o básico da linguagem P
 * Exportando para um artigo
 
 
+## Iniciando o ambiente do curso:
 
+1. Abra um terminal
 
-### Aula 3
+2. Vá para um diretório onde vá trabalhar (preferencialmente um pendrive particular).
 
+    cd /media/<MEUPENDRIVE>
 
+3. Clone o repositório do curso
 
+    git clone https://github.com/igormorgado/introducaopython
+
+4. Entre no diretório do curso
+
+    cd introduçãopython
+
+5. Execute o teste de ambiente
+
+    chmod 755 ./testenv.sh
+    ./testenv.sh
+
+6. Se voce não ver um OK bem grande na tela após alguns minutos de teste, comunique imediatamente.
 
 
 [Python_vs_World]: https://www.python.org/doc/essays/comparisons/
@@ -61,10 +82,11 @@ O curso é dividido em 3 aulas de 2 horas que apresenta o básico da linguagem P
 [Python_Fu]: https://www.ibm.com/developerworks/br/library/os-autogimp/index.html
 [Blender_API]: https://docs.blender.org/api/current/
 [Python_QT]: https://www.qt.io/qt-for-python
-[SciPy]:
-[NumPy]:
-[Matplotlib]:
-[scikit]:
-[tensorflow]:
-[opencv]:
+[SciPy]: https://www.scipy.org/
+[NumPy]: http://www.numpy.org/
+[Matplotlib]: https://matplotlib.org/
+[Pandas]: http://pandas.pydata.org/
+[scikit]: https://scikit-learn.org/stable/
+[tensorflow]: https://www.tensorflow.org/
+[opencv]: https://docs.opencv.org/3.0-beta/doc/py_tutorials/py_tutorials.html
 
