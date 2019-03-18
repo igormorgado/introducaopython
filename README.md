@@ -9,7 +9,7 @@ Vamos nos divertir.
 
 ## Por que Python?
 
-"Por que não?" seria uma ótima contra pergunta, mas também poderiamos dizer o mesmo para C, Ruby, C#, Java, Julia, Fortran ou C++. Todas estas são [linguagens conhecidas][Python_vs_World], que gozam de uma ótima reputação (independente das opiniões do autor) e competentes para serem utilizadas neste cenário, nenhuma destas possui a versatilidade, simplicidade e foco em computação numérica como o Python.
+"Por que não?" seria uma ótima contra pergunta, mas também poderiamos dizer o mesmo para C, Ruby, C#, Java, Julia, Fortran ou C++. Todas estas são [linguagens conhecidas][Python_vs_World], que gozam de uma ótima reputação (independente das opiniões do autor) e competentes para serem utilizadas neste cenário. Porém nenhuma destas possui a versatilidade, simplicidade e foco em computação numérica como o Python.
 
 Existe uma piada interna dos desenvolvedores Python que diz:
 
