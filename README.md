@@ -9,19 +9,19 @@ Vamos nos divertir.
 
 ## Por que Python?
 
-"Por que não?" seria uma ótima contra pergunta, mas também poderiamos dizer o mesmo para C, Ruby, C#, Java, Julia, Fortran ou C++. Todas estas são [linguagens conhecidas][Python_vs_World], que gozam de uma ótima reputação (independente das opiniões do autor) e competentes para serem utilizadas neste cenário. Porém nenhuma destas possui a versatilidade, simplicidade e foco em computação numérica como o Python.
+"Por que não?" seria uma ótima contra pergunta, mas também poderíamos dizer o mesmo para C, Ruby, C#, Java, Julia, Fortran ou C++. Todas estas são [linguagens conhecidas][Python_vs_World], que gozam de uma ótima reputação (independente das opiniões do autor) e competentes para serem utilizadas neste cenário. Porém nenhuma destas possui a versatilidade, simplicidade e foco em computação numérica como o Python.
 
 Existe uma piada interna dos desenvolvedores Python que diz:
 
-*"O Python é a segunda melhor lingaguem para qualquer coisa" -- Autor Desconhecido*
+*"O Python é a segunda melhor linguagem para qualquer coisa" -- Autor Desconhecido*
 
-Pode parecer ruim, mas apesar de tudo é um ótimo mérito. Ao aprender Python você pode não obter a performance esperada e extrair o máximo do seu hardware ([e isso é também um debate][IBM_C_vs_Python_vs_Julia]), mas terá uma performance satisfatória (e muito boa se programar da forma correta). Pode não possuir todas as estruturas esperadas de uma linguagem orientada a objetos (como o C++/Java) ou Funcional (como o Elixir ou Haskell), mas permite trabalhar com os três paradigmas mais comuns da atualidade em uma única linguagem, o que é bastente poderoso. É uma linguagem bastente expressiva, com tipagem dinâmica (que é uma vantagem ao mesmo tempo que uma desvantagem), onde é possivel escrever ideias com o minimo de código possível sem perder a expressividade. Python lhe dará o poder de criar interfaces gráficas dignas de aplicações profissionais como o [Glade][Python_Glade] e o [QT][Python_QT] (sem ter aquela aparencia de que seu programa nao encaixa com o ambiente), permite o desenvolvemento de ferramentas para automação de tarefas como no [Blender][Blender_API] e [GIMP][Python_Fu]. 
+Pode parecer ruim, mas apesar de tudo é um ótimo mérito. Ao aprender Python você pode não obter a performance esperada e extrair o máximo do seu hardware ([e isso é também um debate][IBM_C_vs_Python_vs_Julia]), mas terá uma performance satisfatória (e muito boa se programar da forma correta). Pode não possuir todas as estruturas esperadas de uma linguagem orientada a objetos (como o C++/Java) ou Funcional (como o Elixir ou Haskell), mas permite trabalhar com os três paradigmas mais comuns da atualidade em uma única linguagem, o que é bastante poderoso. É uma linguagem bastante expressiva, com tipagem dinâmica (que é uma vantagem ao mesmo tempo que uma desvantagem), onde é possível escrever ideias com o minimo de código possível sem perder a expressividade. Python lhe dará o poder de criar interfaces gráficas dignas de aplicações profissionais como o [Glade][Python_Glade] e o [QT][Python_QT] (sem ter aquela aparência de que seu programa não encaixa com o ambiente), permite o desenvolvimento de ferramentas para automação de tarefas como no [Blender][Blender_API] e [GIMP][Python_Fu]. 
 
 Esses são alguns dos motivos para aprender Python como uma ferramenta do dia a dia. Nosso foco será a computação científica.
 
 ## Computação Científica com Python
 
-O Python começou a emergir como uma ferramenta de computação Científica com o surgimento do projeto [SciPy][SciPy] em especial da biblioteca [NumPy][NumPy], que permitiu ao Python realizar operações vetoriais e matriciais com performance compatível a linguagens compiladas como o C e o Fortran (que ainda é o rei neste segmento). Após o NumPy diversos projetos se seguiram, como a [MatplotLib][MatplotLib] que é uma biblioteca para gráficos, [Pandas][Pandas] uma biblioteca para manipulação de dados tabulares e séries temporais e mais recentemente [Scikit-Learn][scikit], [TensorFlow][tensorflow] e [OpenCV][opencv] bibliotecas usadas em aprendizagem de máquina, redes profundas e visão computacional. O número de aplicações para Python não para de crescer e hoje é sem dúvidas a linguagem número um para prototipação na pesquisa em redes de aprendizagem profunda.
+O Python começou a emergir como uma ferramenta de computação Científica com o surgimento do projeto [SciPy][SciPy] em especial da biblioteca [NumPy][NumPy], que permitiu ao Python realizar operações vetoriais e matriciais com performance compatível a linguagens compiladas como o C e o Fortran (que ainda é o rei neste segmento). Após o NumPy diversos projetos se seguiram, como a [MatplotLib][MatplotLib] que é uma biblioteca para gráficos, [Pandas][Pandas] uma biblioteca para manipulação de dados tabulares e séries temporais e mais recentemente [Scikit-Learn][scikit], [TensorFlow][tensorflow] e [OpenCV][opencv] bibliotecas usadas em aprendizagem de máquina, redes profundas e visão computacional. O número de aplicações para Python não para de crescer e hoje é sem dúvidas a linguagem número um para prototipagem na pesquisa em redes de aprendizagem profunda.
 
 Esse é o motivo pelo qual o Python foi escolhido para este curso. 
 
@@ -81,7 +81,7 @@ O curso é dividido em 3 aulas de 2 horas que apresenta o básico da linguagem P
     ./testenv.sh
     ```
 
-6. Se voce não ver um OK bem grande na tela após alguns minutos de teste, comunique imediatamente.
+6. Se você não ver um OK bem grande na tela após alguns minutos de teste, comunique imediatamente.
 
 
 [Python_vs_World]: https://www.python.org/doc/essays/comparisons/
