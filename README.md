@@ -8,10 +8,14 @@ Bem vindo. Neste curso você irá aprender o mínimo necessário para utilizar u
 
 Existe uma piada interna dos desenvolvedores Python que diz:
 
-*O Python é a segunda melhor lingaguem para qualquer coisa*
+*"O Python é a segunda melhor lingaguem para qualquer coisa" -- Autor Desconhecido*
 
-Que apesar de tudo é um ótimo mérito, ao aprender Python você pode não obter a performance esperada e extrair o máximo do seu hardware ([e isso é também um debate][IBM_C_vs_Python_vs_Julia]), mas terá uma performance satisfatória (e muito boa se programar da forma correta). Pode não possuir todas as estruturas esperadas de uma linguagem orientada a objetos (como o C++/Java) ou Funcional (como o Elixir ou Haskell), mas permite trabalhar com os três paradigmas mais comuns da atualidade em uma única linguagem, o que é bastente poderoso. É uma linguagem bastente expressiva, com tipagem dinâmica (que é uma vantagem ao mesmo tempo que uma desvantagem), onde é possivel escrever ideias com o minimo de código possível sem perder a expressividade.
+Pode parecer ruim, mas apesar de tudo é um ótimo mérito. Ao aprender Python você pode não obter a performance esperada e extrair o máximo do seu hardware ([e isso é também um debate][IBM_C_vs_Python_vs_Julia]), mas terá uma performance satisfatória (e muito boa se programar da forma correta). Pode não possuir todas as estruturas esperadas de uma linguagem orientada a objetos (como o C++/Java) ou Funcional (como o Elixir ou Haskell), mas permite trabalhar com os três paradigmas mais comuns da atualidade em uma única linguagem, o que é bastente poderoso. É uma linguagem bastente expressiva, com tipagem dinâmica (que é uma vantagem ao mesmo tempo que uma desvantagem), onde é possivel escrever ideias com o minimo de código possível sem perder a expressividade. Python lhe dará o poder de criar interfaces gráficas dignas de aplicações profissionais como o [Glade][Python_Glade] e o [QT][Python_QT] (sem ter aquela aparencia de que seu programa nao encaixa com o ambiente), permite o desenvolvemento de ferramentas para automação de tarefas como no [Blender][Blender_API] e [GIMP][Python_Fu].
 
 
 [Python_vs_World]: https://www.python.org/doc/essays/comparisons/
 [IBM_C_vs_Python_vs_Julia]: https://www.ibm.com/developerworks/community/blogs/jfp/entry/A_Comparison_Of_C_Julia_Python_Numba_Cython_Scipy_and_BLAS_on_LU_Factorization?lang=en
+[Python_Glade]: https://glade.gnome.org/
+[Python_Fu]: https://www.ibm.com/developerworks/br/library/os-autogimp/index.html
+[Blender_API]: https://docs.blender.org/api/current/
+[Python_QT]: https://www.qt.io/qt-for-python
