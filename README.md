@@ -16,13 +16,42 @@ Esses são alguns dos motivos para aprender Python como uma ferramenta do dia a 
 
 ## Computação Científica com Python
 
-O Python começou a emergir como uma ferramenta de computação Científica com o surgimento do projeto [SciPy][SciPy] em especial da biblioteca [NumPy][NumPy], que permitiu ao Python realizar operações vetoriais e matriciais com performance compatível a linguagens compiladas como o C e o Fortran (que ainda é o rei neste segmento). Após o NumPy diversos projetos se seguiram, como a [MatplotLib][MatplotLib] que é uma biblioteca para gráficos, [Pandas][Pandas] uma biblioteca para manipulação de dados tabulares e séries temporais e mais recentemente [Scikit-Learn][scikit], [TensorFlow][tensorflow] e [OpenCV][opencv] bibliotecas usadas em aprendizagem de máquina, redes profundas e visão computacional. O número de aplicações para Python não para de crescer e hoje é sem dúvidas a linguagem número 1 para prototipação na pesquisa em redes de aprendizagem profunda.
+O Python começou a emergir como uma ferramenta de computação Científica com o surgimento do projeto [SciPy][SciPy] em especial da biblioteca [NumPy][NumPy], que permitiu ao Python realizar operações vetoriais e matriciais com performance compatível a linguagens compiladas como o C e o Fortran (que ainda é o rei neste segmento). Após o NumPy diversos projetos se seguiram, como a [MatplotLib][MatplotLib] que é uma biblioteca para gráficos, [Pandas][Pandas] uma biblioteca para manipulação de dados tabulares e séries temporais e mais recentemente [Scikit-Learn][scikit], [TensorFlow][tensorflow] e [OpenCV][opencv] bibliotecas usadas em aprendizagem de máquina, redes profundas e visão computacional. O número de aplicações para Python não para de crescer e hoje é sem dúvidas a linguagem número um para prototipação na pesquisa em redes de aprendizagem profunda.
 
 Esse é o motivo pelo qual o Python foi escolhido para este curso. 
 
 ## Conteúdo do Curso
 
-O curso
+O curso é dividido em 3 aulas de 2 horas que apresenta o básico da linguagem Python e formas de representar, visualizar e operar com os dados numéricos. Também iremos aprender em como exportar estes gráficos dentro de um artigo científico de forma manter a coerência textual e a aparência.
+
+### Aula 1
+
+* Obtendo o Python
+* Acessando o Jupyter Notebook
+* Estrutura básica da linguagem Python
+* Manipulando cadeias
+* Visualizando dados unidimensionais
+
+### Aula 2
+
+* Definindo funções puras
+* Manipulando e visualizando matrizes
+* Laços temporais e espaciais
+* Operando com submatrizes
+
+### Aula 3
+
+* Operações de disco com dados numéricos
+* Anatomia de um gráfico
+* Embelezando o gráfico
+* Exportando para um artigo
+
+
+
+
+### Aula 3
+
+
 
 
 
