@@ -58,20 +58,28 @@ O curso é dividido em 3 aulas de 2 horas que apresenta o básico da linguagem P
 
 2. Vá para um diretório onde vá trabalhar (preferencialmente um pendrive particular).
 
+    ```
     cd /media/<MEUPENDRIVE>
+    ```
 
 3. Clone o repositório do curso
 
+    ```
     git clone https://github.com/igormorgado/introducaopython
+    ```
 
 4. Entre no diretório do curso
 
+    ```
     cd introduçãopython
+    ```
 
 5. Execute o teste de ambiente
 
+    ```
     chmod 755 ./testenv.sh
     ./testenv.sh
+    ```
 
 6. Se voce não ver um OK bem grande na tela após alguns minutos de teste, comunique imediatamente.
 
