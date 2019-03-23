@@ -76,6 +76,18 @@ O curso é dividido em 3 aulas de 2 horas que apresenta o básico da linguagem P
 
 5. Se você não ver um OK bem grande na tela após algum tempo de teste, comunique imediatamente. Se tudo deu certo.
 
+6. Se deu tudo certo, ative o ambiente:
+
+    ```
+    source venv/bin/activate
+    ```
+    
+7. Acesse as aulas
+
+    ```
+    jupyter-notebook aulas
+    ```
+    
 
 [Python_vs_World]: https://www.python.org/doc/essays/comparisons/
 [IBM_C_vs_Python_vs_Julia]: https://www.ibm.com/developerworks/community/blogs/jfp/entry/A_Comparison_Of_C_Julia_Python_Numba_Cython_Scipy_and_BLAS_on_LU_Factorization?lang=en
