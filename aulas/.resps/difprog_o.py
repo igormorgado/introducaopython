@@ -1,1 +1,2 @@
-dif_prog = x[1:] - x[:-1]
+fibo = np.array(fibo)
+dif_prog = fibo[1:] - fibo[:-1]
