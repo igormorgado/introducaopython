@@ -21,7 +21,7 @@ then
 fi
 
 # Criando o ambiente virtual
-virtualenv venv || erro "Não pude criar o ambiente virtual"
+virtualenv -p /usr/bin/python3 venv || erro "Não pude criar o ambiente virtual"
 
 # Ativando o ambiente virtual
 source venv/bin/activate || erro "Não pude ativar o ambiente virtual."
